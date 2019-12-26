@@ -1,0 +1,1 @@
+Design materials for Monoid.
